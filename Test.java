@@ -1,6 +1,6 @@
 class test
 {
-Plubilc static void main(String[] arg)
+Public static void main(String[] arg)
 {
 System.out.println("hello friend");
 }
